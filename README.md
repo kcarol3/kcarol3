@@ -5,7 +5,6 @@
 
 
 - :books: Now I'm learning PHP and frameworks Symfony and Laravel. 
- [![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel)](https://skillicons.dev)
 
 
 - :calendar: Next, I Want learn .NET MVC, .Net Core and EntityFramework.
