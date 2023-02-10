@@ -1,9 +1,11 @@
 ###  Hello world!  👋
 
-- 🔭 I'm currentlu studying on Lublin University of Technology.
+- 🔭 I'm currently studying on Lublin University of Technology.
 - :building_construction: I'm using GitHub for my own projects and exercises.
+
+
 - :books: Now I'm learning PHP and frameworks Symfony and Laravel. 
--  [![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel)](https://skillicons.dev)
 
 
 - :calendar: Next, I Want learn .NET MVC, .Net Core and EntityFramework.
