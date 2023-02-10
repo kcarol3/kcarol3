@@ -7,7 +7,7 @@
 - :books: Now I'm learning PHP and frameworks Symfony and Laravel. 
 
 
-- :calendar: Next, I Want learn .NET MVC, .Net Core and EntityFramework.
+- :calendar: Next, I want learn .NET MVC, .Net Core and EntityFramework.
 
 Furthermore, I know the basics of these technology:
  [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,swift)](https://skillicons.dev)
