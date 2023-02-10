@@ -1,9 +1,11 @@
 ###  Hello world!  👋
 
 - 🔭 I'm currentlu studying on Lublin University of Technology.
-- 🌱 Now I'm learning PHP and frameworks Symphony and Laravel. 
-- Next, I Want learn .NET MVC, .Net Core and EntityFramework.
-- Furthermore, I know the basics of these technology:
+- :building_construction: I'm using GitHub for my own projects and exercises.
+- :books: Now I'm learning PHP and frameworks Symphony and Laravel. 
+- :calendar: Next, I Want learn .NET MVC, .Net Core and EntityFramework.
+
+Furthermore, I know the basics of these technology:
  [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,swift)](https://skillicons.dev)
 
 <!--
