@@ -3,8 +3,8 @@
 - 🔭 I'm currentlu studying on Lublin University of Technology.
 - 🌱 Now I'm learning PHP and frameworks Symphony and Laravel. 
 - Next, I Want learn .NET MVC, .Net Core and EntityFramework.
-- I know the basics of these technology:
- [![My Skills](https://skillicons.dev/icons?i=java,c++,html,css,swift)](https://skillicons.dev)
+- Furthermore, I know the basics of these technology:
+ [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,swift)](https://skillicons.dev)
 
 <!--
 **kcarol3/kcarol3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
