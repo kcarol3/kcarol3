@@ -10,6 +10,8 @@
 - :calendar: Next, I want learn .NET MVC, .Net Core and EntityFramework.
 
 Furthermore, I know the basics of these technology:
+
+
  [![My Skills](https://skillicons.dev/icons?i=java,cpp,html,css,swift)](https://skillicons.dev)
 
 <!--
