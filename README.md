@@ -4,7 +4,7 @@
 - :building_construction: I'm using GitHub for my own projects and exercises.
 
 
-- :books: Now I'm learning PHP and frameworks Symfony and Laravel. 
+- :books: Now I'm learning PHP, Laravel, Java Android, Javascript and Swift. 
 
 
 - :calendar: Next, I want learn .NET MVC, .Net Core and EntityFramework.
